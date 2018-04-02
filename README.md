@@ -1,2 +1,3 @@
 # silver-framework-fe
-silver-framework-frontend
+
+Silver framework frontend
